@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300" alt="Nyan Cat" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/9b6zJYF.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Sayfull XD</h1>
 
 <p align="center">
@@ -27,4 +35,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=S4yfullXD&show_icons=true&theme=radical" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4yfullXD&layout=compact&theme=radical" />
+</p>
+
+---
+
+### Animasi Lucu
+
+<p align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300" alt="Nyan Cat" />
 </p>
