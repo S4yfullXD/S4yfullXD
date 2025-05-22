@@ -10,7 +10,8 @@
 
 ---
 
-## 🧑‍💻 **Tentang Saya**
+## 🧑‍💻 **Tentang Saya** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" />
+
 - 🔭 Lagi ngulik bot WhatsApp pakai Baileys  
 - 🌱 Sedang belajar TypeScript & backend automation  
 - ⚡ Fun fact: Lebih produktif malam daripada siang  
@@ -45,17 +46,8 @@
 
 ---
 
-## 📁 **My Repository**
+## 💻 **Terminal Vibes**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=280&lines=My+Repository" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
-  <img src="https://img.shields.io/badge/↓-FF5733?style=flat&labelColor=FF5733" />
-  <img src="https://img.shields.io/badge/↓-FFC300?style=flat&labelColor=FFC300" />
-  <img src="https://img.shields.io/badge/↓-DAF7A6?style=flat&labelColor=DAF7A6" />
-  <img src="https://img.shields.io/badge/↓-33FFBD?style=flat&labelColor=33FFBD" />
-  <img src="https://img.shields.io/badge/↓-B833FF?style=flat&labelColor=B833FF" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350" />
 </p>
