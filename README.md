@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sayfull XD</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F79E1B&center=true&vCenter=true&multiline=true&width=435&lines=Selamat+datang+di+profil+GitHub+SayfullXD!;Senang+bertemu+denganmu+di+sini." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F79E1B&center=true&vCenter=true&multiline=true&width=320&lines=Selamat+datang+di+profil+GitHub+SayfullXD!;Senang+bertemu+denganmu+di+sini." />
 </p>
 
 ---
