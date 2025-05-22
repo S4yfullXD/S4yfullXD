@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300" alt="Nyan Cat" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/9b6zJYF.png" alt="Banner" width="100%" />
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="100%" alt="Nyan Cat" />
 </p>
 
 <h1 align="center">Hi, I'm Sayfull XD</h1>
@@ -14,14 +10,14 @@
 
 ---
 
-### Tentang Saya
-- 🔭 Lagi ngulik bot WhatsApp pakai Baileys
-- 🌱 Sedang belajar TypeScript & backend automation
-- ⚡ Fun fact: Lebih produktif malam daripada siang
+## 🧑‍💻 **Tentang Saya**
+- 🔭 Lagi ngulik bot WhatsApp pakai Baileys  
+- 🌱 Sedang belajar TypeScript & backend automation  
+- ⚡ Fun fact: Lebih produktif malam daripada siang  
 
 ---
 
-### Teknologi yang Saya Gunakan
+## 🛠️ **Teknologi yang Saya Gunakan**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -29,7 +25,7 @@
 
 ---
 
-### Statistik GitHub
+## 📊 **Statistik GitHub**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=S4yfullXD&show_icons=true&theme=radical" />
@@ -39,8 +35,22 @@
 
 ---
 
-### Animasi Lucu
+## 🎧 **Coding Music**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300" alt="Nyan Cat" />
+  <a href="https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp?si=4SRqPBU4RDCn3hpTIQb8nA" target="_blank">
+    <img src="https://img.shields.io/badge/Now%20Playing-Acoustic%20Coding%20Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📁 **My Repository**
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=300&lines=My+Repository" />
+</p>
+
+<p align="center">
+  Klik tab <strong>Repositories</strong> di atas untuk lihat semua project-ku!
 </p>
